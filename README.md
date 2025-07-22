@@ -19,7 +19,7 @@ Me interesa colaborar en proyectos donde pueda seguir aprendiendo, aportar en eq
 
 ¿Te apetece más jugar que leer código?  
 Pásate por mi [Escape Room interactivo](https://sample-service-name-e1di.onrender.com/) y ponte a prueba resolviendo enigmas.  
-Fue mi primer gran proyecto en equipo, así que seguro hay cosas por mejorar. ¡Tu feedback será muy bien recibido! 🐞✨
+Fue mi primer gran proyecto en equipo, así que seguro hay cosas por mejorar. ¡Tu feedback será muy bien recibido! 
 
 ---
 
